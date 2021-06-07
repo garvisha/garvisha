@@ -1,5 +1,5 @@
 ### Hi there 👋
-I,m currently learning Data Structure and Algorithms.
+I'm currently learning Data Structure and Algorithms.
 
 <!--
 **garvisha/garvisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
